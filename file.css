@@ -1,0 +1,75 @@
+.section2 {
+  display: flex;
+
+  justify-content: center;
+}
+body {
+  justify-content: center;
+  justify-items: center;
+  background-color: hsl(0, 0%, 94%);
+}
+.why {
+  background-color: #4abebd;
+  width: 100%;
+  justify-items: center;
+  color: #c2e3e3;
+}
+.month {
+  background-color: hsl(179, 61%, 44%);
+  width: 100%;
+  justify-items: center;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  font-size: larger;
+}
+.join {
+  background-color: #ffffff;
+  padding-left: 2rem;
+
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 40rem;
+}
+.com {
+  color: #37baaf;
+  font-weight: bolder;
+}
+.gain {
+  color: #dcdfe6;
+}
+.day {
+  color: #d2e863;
+  font-weight: bold;
+}
+.dollar {
+  color: #eaffff;
+}
+.butt {
+  background-color: #bfdf32;
+  width: 15rem;
+  border-radius: 1rem;
+  height: 2.5rem;
+}
+.doll {
+  display: flex;
+  align-items: center;
+  gap: 5%;
+}
+.d29 {
+  font-weight: bolder;
+  font-size: x-large;
+}
+.pmonth {
+  font-size: x-small;
+}
+.us {
+  font-size: x-large;
+  font-weight: bold;
+}
+.ptag3 {
+  margin: 0;
+}
